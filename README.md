@@ -14,3 +14,5 @@ Where, a is the intercept, b is the slope of the line, and e is the error term. 
 
 ### The Problem statement:
 This data is about the amount spent on advertising through different channels like TV, Radio and Newspaper. The goal is to predict how the expense on each channel affects the sales and is there a way to optimise that sale?
+
+![download](https://user-images.githubusercontent.com/33252532/83059890-40172600-a078-11ea-9ded-549dfaf4b821.png)
